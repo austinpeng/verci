@@ -124,10 +124,10 @@ body {
       } 
       p{padding-top:2px}}
 
-  @media screen and (max-width: 360px) {
+  @media screen and (max-width: 480px) {
     body {
       padding: 5em 1.25em 1.25em 1.25em; } 
-p{padding-top:2px}}
+p{padding-top:20px}}
 
 @font-face {
   font-family: "Halimun";
