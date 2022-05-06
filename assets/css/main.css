@@ -116,11 +116,13 @@ body {
   @media screen and (max-width: 1680px) {
     body {
       padding: 6em 3.5em 3.5em 3.5em; }
+
 }
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 736px) {
     body {
       padding: 5em 2em 2em 2em;
       } 
+      }
 
   @media screen and (max-width: 360px) {
     body {
